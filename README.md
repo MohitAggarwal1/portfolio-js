@@ -28,6 +28,64 @@ This portfolio combines **3D elements, smooth animations, and modern UI design**
 
 ---
 
+# 🖼️ Website Preview
+
+---
+
+## 🏠 Hero Section
+
+![Hero Section](https://raw.githubusercontent.com/MohitAggarwal1/readme_images/refs/heads/main/portfolio-js/Screenshot%202026-02-15%20143058.png)
+
+### Features:
+
+* Animated 3D visuals
+* Dynamic typography
+* Strong CTA (See My Work)
+* Experience & Stats counters
+
+---
+
+## ⏱️ On-Time Delivery Section
+
+![On Time Delivery](https://raw.githubusercontent.com/MohitAggarwal1/readme_images/refs/heads/main/portfolio-js/Screenshot%202026-02-15%20143702.png)
+
+### Highlights:
+
+* Commitment to deadlines
+* Quality-focused development
+* Reliable communication
+* Professional workflow approach
+
+---
+
+## 🛠 Skills Section
+
+![Skills Section](https://raw.githubusercontent.com/MohitAggarwal1/readme_images/refs/heads/main/portfolio-js/Screenshot%202026-02-15%20144041.png)
+
+### Core Expertise:
+
+* React Developer
+* Python Developer
+* Backend Developer
+* Interactive Developer
+* Project Manager
+
+---
+
+## ⭐ Testimonials Section
+
+![Testimonials Section](https://raw.githubusercontent.com/MohitAggarwal1/readme_images/refs/heads/main/portfolio-js/Screenshot%202026-02-15%20144409.png)
+
+### What Clients Say:
+
+* Clean and scalable code
+* Strong problem-solving skills
+* Professional communication
+* On-time project delivery
+* High client retention
+
+---
+
 ## 🎯 Key Highlights
 
 * 🌌 Interactive 3D environment
@@ -40,12 +98,6 @@ This portfolio combines **3D elements, smooth animations, and modern UI design**
 ---
 
 ## 🧭 Website Sections
-
-### 🏠 Hero Section
-
-* Animated 3D visuals
-* Dynamic typography
-* Call-to-action button (See My Work)
 
 ### 💼 Projects Showcase
 
@@ -61,57 +113,25 @@ Featured projects include:
 
 ---
 
-### 💼 Career Overview
+## 💼 Career Overview
 
-#### 👨‍💻 Frontend Developer (Aug 2023 – Jan 2024)
+### 👨‍💻 Frontend Developer (Aug 2023 – Jan 2024)
 
 * Built responsive & interactive UIs
 * Collaborated with UI/UX teams
 * Optimized performance & SEO
 
-#### ⚙️ Backend Developer (Mar 2024 – Dec 2024)
+### ⚙️ Backend Developer (Mar 2024 – Dec 2024)
 
 * Developed RESTful APIs
 * Improved database & server performance
 * Implemented authentication & security best practices
 
-#### 🔥 Full Stack Developer (Jan 2025 – Present)
+### 🔥 Full Stack Developer (Jan 2025 – Present)
 
 * Built complete end-to-end features
 * Integrated frontend with backend systems
 * Managed deployment & scalability
-
----
-
-### 🛠 Skills & Expertise
-
-* React Developer
-* Python Developer
-* Backend Developer
-* Interactive Developer
-* Project Manager
-
----
-
-### ⭐ Testimonials
-
-Includes real client feedback highlighting:
-
-* Clean code practices
-* Strong problem-solving skills
-* Professional communication
-* On-time delivery
-* Scalable architecture design
-
----
-
-### 📬 Contact Section
-
-* Name
-* Email
-* Message
-* Social Media Links
-* Terms & Conditions
 
 ---
 
@@ -142,13 +162,6 @@ package.json
 package-lock.json
 vite.config.js
 ```
-
-### 📁 Important Folders
-
-* `public/` → Static assets
-* `src/` → Components, sections, logic
-* `JS/` → Custom animation / interaction scripts
-* `vite.config.js` → Build configuration
 
 ---
 
@@ -226,15 +239,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-## 🙌 Acknowledgements
-
-* React & Vite Documentation
-* Three.js Community
-* Open-source UI/UX inspiration
-* All amazing clients & collaborators
-
----
-
 ## 👨‍💻 About Me
 
 Hi, I’m **Mohit Aggarwal**, a passionate Full Stack Developer with 3+ years of experience building scalable and high-performing web applications.
@@ -249,5 +253,3 @@ I focus on:
 ---
 
 ### ⭐ If you like this portfolio, don’t forget to give it a star!
-
----
