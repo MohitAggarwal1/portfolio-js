@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-🔗 **Live Demo:** [https://mohitportfoliojs.vercel.app/](https://mohitportfoliojs.vercel.app/)  
+🔗 **Live Demo:** [https://mohitportfoliojs.vercel.app/](https://mohitaggarwal.vercel.app)  
 📸 **Instagram:** [https://www.instagram.com/mohhitaggarwal](https://www.instagram.com/mohhitaggarwal)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/mohitaggarwalofficial](https://www.linkedin.com/in/mohitaggarwalofficial)
 
